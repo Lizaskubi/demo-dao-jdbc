@@ -8,6 +8,7 @@ import java.util.List;
 public class SellerDoJDBC implements SellerDao {
 
 
+
     @Override
     public void insert(Seller obj) {
 
